@@ -4,6 +4,8 @@ our own terrible url shorter which is not short at all.. i'll register a .ly dom
 
 Fork @ https://github.com/Andrewgxgx/url.asop.asia
 
+Fork W Short @ https://url.asop.asia/share/fork.html
+
 Feel Free to add your own urls in /share/ folder
 
 Make sure to open a pr so Someone can review it first
